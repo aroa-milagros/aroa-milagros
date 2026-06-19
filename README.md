@@ -1,16 +1,21 @@
-## Hi there 👋
+# Aroa
 
-<!--
-**aroa-milagros/aroa-milagros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the Public University of Navarre (UPNA).
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cybersecurity
+- Network Security
+- Linux Systems
+- Telecommunications
+- Critical Infrastructure Security
+
+## Current Focus
+
+Building personal projects in cybersecurity, networking and systems administration while completing my degree in Computer Engineering.
+
+## Goals
+
+- Develop a strong foundation in cybersecurity
+- Build a portfolio of practical projects
+- Continue improving in Linux, networking and systems security
